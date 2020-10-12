@@ -8,8 +8,8 @@ summary: Twitch began its journey as a simple online working space where people 
   a lot of popularity. The new world twitch has become one of the most loved platforms
   for watching some of the famous e-sports being played live.
 last_modified_at: 2018-02-01T22:10:10.000+01:00
-preview_image: lazy-cat.jpg
-thumb_image: lazy-cat-thumb.jpg
+preview_image: ''
+thumb_image: ''
 main_image_description: Cat represents productive shell bash workflow
 
 ---
