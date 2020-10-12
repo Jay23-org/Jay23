@@ -1,3 +1,6 @@
+---
+
+---
 {% if page.layout == 'post' %}
 <!-- Google Structured Data -->
   <script type="application/ld+json">
@@ -19,11 +22,11 @@
     "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date: site.structured_date_format }}{% else %}{{ page.date | date: site.structured_date_format }}{% endif %}",
     "author": {
       "@type": "Person",
-      "name": "Paweł Urbanek"
+      "name": "Marek Ciesla"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "PabloWeb Paweł Urbanek",
+      "name": "PabloWeb Marek Ciesla",
       "logo": {
         "@type": "ImageObject",
         "url": "{{ site.url }}{{ assets["pabloweb.jpg"].digest_path }}",
@@ -40,11 +43,11 @@
     {
       "@context": "http://schema.org",
       "@type": "WebSite",
-      "name": "Paweł Urbanek - Full Stack Blog",
-      "url": "https://pawelurbanek.com",
+      "name": "Marek Ciesla - Full Stack Blog",
+      "url": "https://blog.jay23.com.com",
       "author": {
         "@type": "Person",
-        "name": "Paweł Urbanek"
+        "name": "Marek Ciesla"
       },
       "keywords": "{{ site.keywords }}"
     }
