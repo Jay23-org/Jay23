@@ -15,7 +15,6 @@ email_subscription_link: https://mailchimp.com/
 header_pages:
 - pages/home.html
 - pages/about.md
-- pages/jekyll-seo-template.html
 google_verification: 
 google_tag_manager: 
 animated: false
@@ -104,7 +103,3 @@ assets:
   - _assets/css
   - _assets/css/scss
   - _assets/images/shared
-  - _assets/images/2018-01-08
-  - _assets/images/2018-01-15
-  - _assets/images/2018-01-22
-  - _assets/images/2018-02-23
