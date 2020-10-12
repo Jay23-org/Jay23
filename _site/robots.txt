@@ -1,3 +1,0 @@
-User-agent: *
-Sitemap: https://pawelurbanek.com/sitemap.xml
-Disallow: /render-images
