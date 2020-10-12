@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 6 Easiest Way to Make Money on Twitch
-head_title: 6 Easiest Way to Make Money on Twitch
+title: 6 Easiest Ways to Make Money on Twitch
+head_title: 6 Easiest Ways to Make Money on Twitch
 date: 2020-10-12T14:26:52Z
 summary: Twitch began its journey as a simple online working space where people could
   broadcast live video games played by gamers. With time, it has been able to garner
   a lot of popularity. The new world twitch has become one of the most loved platforms
   for watching some of the famous e-sports being played live.
 last_modified_at: 2018-02-01T22:10:10.000+01:00
-preview_image: ''
-thumb_image: ''
-main_image_description: Cat represents productive shell bash workflow
+preview_image: "/uploads/121464992_4598424416865703_2020405432074999456_n.png"
+thumb_image: "/uploads/121464992_4598424416865703_2020405432074999456_n.png"
+main_image_description: Twitch panel
 
 ---
 Twitch began its journey as a simple online working space where people could broadcast live video games played by gamers. With time, it has been able to garner a lot of popularity. The new world twitch has become one of the most loved platforms for watching some of the famous e-sports being played live.
