@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Productive Laziness - Optimize your Shell Workflow-(copy)
-head_title: Productive Laziness - Optimize your Shell Workflow [Ruby Gem]
+title: 6 Easiest Way to Make Money on Twitch
+head_title: 6 Easiest Way to Make Money on Twitch
 date: 2018-01-08T16:26:52.000+01:00
-summary: I would like to share a simple productivity tip that probably helped me save
-  thousands of keystrokes so far. I’ve been using this technique for a while now to
-  maximize my laziness (productivity) during work and so, recently I wrapped it up
-  in an easy to use Ruby Gem.
+summary: 'Twitch began its journey as a simple online working space where people could
+  broadcast live video games played by gamers. With time, it has been able to garner
+  a lot of popularity. The new world twitch has become one of the most loved platforms
+  for watching some of the famous e-sports being played live. '
 last_modified_at: 2018-02-01T22:10:10.000+01:00
 preview_image: lazy-cat.jpg
 thumb_image: lazy-cat-thumb.jpg
-main_image_description: Cat represents productive shell bash workflow
+main_image_description: Twitch is one such platform that gives you the liberty to
+  have personal interaction in real-time with our viewers
 
 ---
 I would like to share a simple productivity tip that probably helped me save thousands of keystrokes so far.
