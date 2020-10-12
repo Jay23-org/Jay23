@@ -69,10 +69,10 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.head_title %}{{ page.head_title | strip_html }} {% else %} {{ site.head_title | strip_html }} {% endif %}">
     <meta property="og:description" content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ page.url }}">
     <meta property="og:site_name" content="{{ site.head_title | xml_escape }}">
     {% if page.preview_image %}
-    <meta property="og:image" content="{{ site.url }}{{ assets[page.preview_image].digest_path }}">
+    <meta property="og:image" content="{{ assets[page.preview_image].digest_path }}">
     {% endif %}
 
 
@@ -87,7 +87,7 @@
     {% endif %}
 
     {% if page.preview_image %}
-    <meta name="twitter:image" content="{{ site.url }}{{ assets[page.preview_image].digest_path }}">
+    <meta name="twitter:image" content="{{ assets[page.preview_image].digest_path }}">
     {% endif %}
 
     <meta name="twitter:site" content="@{{ site.twitter_username }}" />
@@ -96,7 +96,7 @@
     <meta name="twitter:title" content="{% if page.head_title %}{{ page.head_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.head_title }}{% endif %}">
 
     <meta name="twitter:description" content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+    <meta name="twitter:url" content="{{ page.url }}" />
 
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">

@@ -10,28 +10,28 @@ layout: default
   <span>Share</span>
   <a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&amp;url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
     <img title="Share on Twitter"
-      src="{{ site.url }}{{ assets['twitter.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['twitter.png'].digest_path }} 1x, {{ site.url }}{{ assets['twitter@2x.png'].digest_path }} 2x"
+      src="{{ assets['twitter.png'].digest_path }}"
+      srcset="{{ assets['twitter.png'].digest_path }} 1x, {{ assets['twitter@2x.png'].digest_path }} 2x"
     >
   </a>
   <a href="https://facebook.com/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
     <img title="Share on Facebook"
-      src="{{ site.url }}{{ assets['facebook.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['facebook.png'].digest_path }} 1x, {{ site.url }}{{ assets['facebook@2x.png'].digest_path }} 2x"
+      src="{{ assets['facebook.png'].digest_path }}"
+      srcset="{{ assets['facebook.png'].digest_path }} 1x, {{ assets['facebook@2x.png'].digest_path }} 2x"
     >
   </a>
 
    <a href="http://www.linkedin.com/shareArticle?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;title={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
       <img title="Share on LinkedIn"
-      src="{{ site.url }}{{ assets['linkedin.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['linkedin.png'].digest_path }} 1x, {{ site.url }}{{ assets['linkedin@2x.png'].digest_path }} 2x"
+      src="{{ assets['linkedin.png'].digest_path }}"
+      srcset="{{ assets['linkedin.png'].digest_path }} 1x, {{ assets['linkedin@2x.png'].digest_path }} 2x"
       >
    </a>
 
    <a href="http://www.tumblr.com/share/link?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;name={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
       <img title="Share on Tumblr"
-      src="{{ site.url }}{{ assets['tumblr.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['tumblr.png'].digest_path }} 1x, {{ site.url }}{{ assets['tumblr@2x.png'].digest_path }} 2x"
+      src="{{ assets['tumblr.png'].digest_path }}"
+      srcset="{{ assets['tumblr.png'].digest_path }} 1x, {{ assets['tumblr@2x.png'].digest_path }} 2x"
       >
    </a>
 </div>
@@ -41,29 +41,29 @@ layout: default
   <br>
   <a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&amp;url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
     <img title="Share on Twitter"
-      src="{{ site.url }}{{ assets['twitter.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['twitter.png'].digest_path }} 1x, {{ site.url }}{{ assets['twitter@2x.png'].digest_path }} 2x"
+      src="{{ assets['twitter.png'].digest_path }}"
+      srcset="{{ assets['twitter.png'].digest_path }} 1x, {{ assets['twitter@2x.png'].digest_path }} 2x"
     >
   </a>
   <br>
   <a href="https://facebook.com/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
     <img title="Share on Facebook"
-      src="{{ site.url }}{{ assets['facebook.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['facebook.png'].digest_path }} 1x, {{ site.url }}{{ assets['facebook@2x.png'].digest_path }} 2x"
+      src="{{ assets['facebook.png'].digest_path }}"
+      srcset="{{ assets['facebook.png'].digest_path }} 1x, {{ assets['facebook@2x.png'].digest_path }} 2x"
     >
   </a>
   <br>
   <a href="http://www.linkedin.com/shareArticle?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;title={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
       <img title="Share on LinkedIn"
-      src="{{ site.url }}{{ assets['linkedin.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['linkedin.png'].digest_path }} 1x, {{ site.url }}{{ assets['linkedin@2x.png'].digest_path }} 2x"
+      src="{{ assets['linkedin.png'].digest_path }}"
+      srcset="{{ assets['linkedin.png'].digest_path }} 1x, {{ assets['linkedin@2x.png'].digest_path }} 2x"
       >
    </a>
    <br>
    <a href="http://www.tumblr.com/share/link?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;name={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
       <img title="Share on Tumblr"
-      src="{{ site.url }}{{ assets['tumblr.png'].digest_path }}"
-      srcset="{{ site.url }}{{ assets['tumblr.png'].digest_path }} 1x, {{ site.url }}{{ assets['tumblr@2x.png'].digest_path }} 2x"
+      src="{{ assets['tumblr.png'].digest_path }}"
+      srcset="{{ assets['tumblr.png'].digest_path }} 1x, {{ assets['tumblr@2x.png'].digest_path }} 2x"
       >
    </a>
 </div>
@@ -109,7 +109,7 @@ layout: default
 
   {% if page.thumb_image %}
     <div class='main-image-placeholder'>
-      {% asset "{{ page.thumb_image }}" class="center-image js-async-img" title="{{ page.main_image_description }}" alt="{{ page.main_image_description }}" data-src="{{ site.url }}{{ assets[page.preview_image].digest_path }}" %}
+      {% asset "{{ page.thumb_image }}" class="center-image js-async-img" title="{{ page.main_image_description }}" alt="{{ page.main_image_description }}" data-src="{{ assets[page.preview_image].digest_path }}" %}
     </div>
   {% else %}
     <h2>Missing main image</h2>
