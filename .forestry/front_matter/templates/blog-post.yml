@@ -1,0 +1,34 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: head_title
+  label: head_title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: last_modified_at
+  label: last_modified_at
+- type: file
+  name: preview_image
+  label: preview_image
+- type: file
+  name: thumb_image
+  label: thumb_image
+- type: text
+  name: keywords
+  label: keywords
+- type: text
+  name: main_image_description
+  label: main_image_description
+- type: textarea
+  name: summary
+  label: summary
