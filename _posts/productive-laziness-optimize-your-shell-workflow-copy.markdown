@@ -2,7 +2,7 @@
 layout: post
 title: 6 Easiest Way to Make Money on Twitch
 head_title: 6 Easiest Way to Make Money on Twitch
-date: 2018-01-08T16:26:52.000+01:00
+date: 2020-10-12T14:26:52Z
 summary: 'Twitch began its journey as a simple online working space where people could
   broadcast live video games played by gamers. With time, it has been able to garner
   a lot of popularity. The new world twitch has become one of the most loved platforms
