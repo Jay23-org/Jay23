@@ -2,15 +2,20 @@
 layout: post
 title: Multiple Domains with Free Wildcard SSL from Cloudflare
 head_title: Multiple Domains with Free Wildcard Cloudflare SSL [Tutorial]
-date: 2018-01-22T10:00:00+01:00
-summary: Domain names you own could be your most expensive to do list. What’s more a domain without a valid SSL will show up in all modern browsers as an insecure content. In this blog post, I will explain how to minimize the cost of owning multiple wildcard SSL-protected domains using Cloudflare and set them up with Github Pages, Heroku or NGINX.
-last_modified_at: 2018-02-01T22:10:10+01:00
+date: 2018-01-31T09:00:00Z
+summary: Domain names you own could be your most expensive to do list. What’s more
+  a domain without a valid SSL will show up in all modern browsers as an insecure
+  content. In this blog post, I will explain how to minimize the cost of owning multiple
+  wildcard SSL-protected domains using Cloudflare and set them up with Github Pages,
+  Heroku or NGINX.
+last_modified_at: 2018-02-01T22:10:10.000+01:00
 preview_image: signs.jpg
 thumb_image: signs-thumb.jpg
 main_image_description: Multiple HTTP domain names can be cheap
-keywords: heroku, cloudflare, github pages, free ssl, save money, startup, landing page, lets encrypt
----
+keywords: heroku, cloudflare, github pages, free ssl, save money, startup, landing
+  page, lets encrypt
 
+---
 Domain names you own could be your most expensive to do list. What’s more a domain without a valid SSL will show up in all modern browsers as an insecure content. In this blog post, I will explain how to minimize the cost of owning multiple wildcard SSL-protected domains using Cloudflare and set them up with Github Pages, Heroku or NGINX.
 
 After I did not renew yet another domain for one of my _not-so-profitable-yet_ side projects I decided to change a strategy. Now I am hosting most of my projects on subdomains of one root domain: [apki.io](https://apki.io){: target="_blank"}. I've used it for a couple of projects so far:
@@ -105,5 +110,3 @@ There's also [Let’s Encrypt](https://letsencrypt.org/){: target="_blank"} you 
 Obviously, you can use all of those tips for top-level domains as well. Hope it helps you shave a few bucks off what you spend on your online projects.
 
 **Disclaimer:** I'm not a web security expert. I would not recommend using these tips for a project with bank-level security requirements. Let me know in the comments if you notice some security loopholes in those settings.
-
-
