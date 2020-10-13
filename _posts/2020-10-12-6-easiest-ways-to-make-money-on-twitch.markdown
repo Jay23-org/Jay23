@@ -10,7 +10,7 @@ summary: Twitch began its journey as a simple online working space where people 
 last_modified_at: 2020-10-12T14:10:10.000+01:00
 preview_image: 121532930_2711301312444935_3938906897547731146_n.png
 thumb_image: 121532930_2711301312444935_3938906897547731146_n.png
-main_image_description: Twitch panel
+main_image_description: Twitch panels
 
 ---
 Twitch began its journey as a simple online working space where people could broadcast live video games played by gamers. With time, it has been able to garner a lot of popularity. The new world twitch has become one of the most loved platforms for watching some of the famous e-sports being played live.
