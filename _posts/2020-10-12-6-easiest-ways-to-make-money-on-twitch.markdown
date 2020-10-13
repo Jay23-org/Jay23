@@ -8,8 +8,8 @@ summary: Twitch began its journey as a simple online working space where people 
   a lot of popularity. The new world twitch has become one of the most loved platforms
   for watching some of the famous e-sports being played live.
 last_modified_at: 2020-10-12T14:10:10.000+01:00
-preview_image: "/_assets/images/twitch.PNG"
-thumb_image: "/_assets/images/twitch.PNG"
+preview_image: twitch.PNG
+thumb_image: twitch.PNG
 main_image_description: Twitch panel
 
 ---
