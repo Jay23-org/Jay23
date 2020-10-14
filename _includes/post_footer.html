@@ -1,3 +1,6 @@
+---
+
+---
 <div class="page-navigation">
   {% if page.previous.url %}
     <a class="prev navigation-link" href="{{page.previous.url}}">&laquo; {{page.previous.title }}</a>
@@ -10,13 +13,6 @@
   {% endif %}
 </div>
 
-<div class='center'>
-  <img alt="Marek Ciesla"
-    src="{{ assets['pawel-circle.jpg'].digest_path }}"
-    srcset="{{ assets['pawel-circle.jpg'].digest_path }} 1x, {{ assets['pawel-circle@2x.jpg'].digest_path }} 2x"
-    >
-</div>
-
 <div class="post-footer twitter-icon">
   <a href="https://twitter.com/MarekCiesla" target="_blank" rel="nofollow">
     <img alt="Twitter link"
@@ -25,9 +21,6 @@
     >
   </a>
 </div>
-
-<div class='center'>
-  <p>This post was corrected with <a class='link' target='_blank' rel="nofollow" href="{{ site.grammarly)link }}">Grammarly</a>.</p>
 
 
   {% include mailchimp.html button_text="Subscribe" %}
