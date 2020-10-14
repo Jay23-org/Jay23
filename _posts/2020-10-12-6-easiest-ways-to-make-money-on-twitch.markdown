@@ -61,7 +61,7 @@ Coming to selling marches, there is a wide variety of merchandise like t-shirts 
 
 ## **Partnering with Twitch**
 
-Another thing that you could do to make money is to do a partnership with Twitch. Frankly, it is a dream for many streamers who wants to associate with Twitch. But, there are many criteria one needs to fulfill—some of the requirements are having a good number of followers and a specific time for steaming.
+Another thing that you could do to make money is to do a partnership with Twitch. Frankly, it is a dream for many streamers who want to associate with Twitch. But, there are many criteria one needs to fulfill—some of the requirements are having a good number of followers and a specific time for steaming.
 
 It would help if you began your journey with a mindset you want to associate with the official company. It shall always motivate you and shall keep you on your toes.
 
@@ -69,7 +69,7 @@ It would help if you began your journey with a mindset you want to associate wit
 
 Next up, we have Twitch bits. It can be a significant revenue source for those who have a good number of followers and want to sell it. It indicates that the more number of followers you shall have, the chance you make profit increases even more.
 
-Twitch bits enables users to interact with the streamer on live steam. And, here is the opportunity you can establish a good relationship with your viewers. It is also essential that you also increase your engagement. Over ay.ll, if everything goes god it will fetch you a fair amount of money
+Twitch bits enables users to interact with the streamer on live steam. And, here is the opportunity you can establish a good relationship with your viewers. It is also essential that you also increase your engagement. Overall, if everything goes good it will fetch you a fair amount of money.
 
 ## **Ads**
 
@@ -77,7 +77,7 @@ Last but not least, another way of making good money through Twitch is Ads. Impl
 
 ## **Conclusion**
 
-Now that you are aware of the various ways through which you can make money on the platform. You are certainly going to feel more assure and empowered by it. You can also focus no to increase your revenue.
+Now that you are aware of the various ways through which you can make money on the platform. You are certainly going to feel more assured and empowered by it. You can also focus on increasing your revenue.
 
 Another thing that we must mention is that we must be very sure of the content you are streaming. The content should be worth the quality, and also, It should be able to grab the audience's attention. Only then would you be able to make a good profit.
 
