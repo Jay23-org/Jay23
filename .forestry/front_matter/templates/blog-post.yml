@@ -20,9 +20,11 @@ fields:
 - type: file
   name: preview_image
   label: preview_image
+  default: "/_assets/images/twitch.PNG"
 - type: file
   name: thumb_image
   label: thumb_image
+  default: "/_assets/images/twitch.PNG"
 - type: text
   name: keywords
   label: keywords
