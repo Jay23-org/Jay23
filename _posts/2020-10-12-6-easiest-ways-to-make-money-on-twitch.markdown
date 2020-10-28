@@ -82,3 +82,5 @@ Now that you are aware of the various ways through which you can make money on t
 Another thing that we must mention is that we must be very sure of the content you are streaming. The content should be worth the quality, and also, It should be able to grab the audience's attention. Only then would you be able to make a good profit.
 
 We hope that the details mentioned above were of some help to you. We are quite sure of the activities we are going to make tons of money out of it.
+
+![](/_assets/images/twitch.PNG)
