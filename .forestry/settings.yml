@@ -5,10 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Foo
+  label: Contents
 - type: directory
   path: ''
-  label: Bar Baz
+  label: Posts
+  create: all
+  match: _posts
+- type: directory
+  path: ''
+  label: Admin (UNSAFE)
   create: all
   match: "**/*"
 upload_dir: _assets/images
