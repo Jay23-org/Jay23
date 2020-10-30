@@ -10,7 +10,7 @@ sections:
   path: ''
   label: Posts
   create: all
-  match: _posts
+  match: _posts/
 - type: directory
   path: ''
   label: Admin (UNSAFE)
