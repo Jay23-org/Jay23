@@ -21,7 +21,7 @@ Not just this, with the rising popularity of Twix, some of the streamers in this
 
 Twitch is one such platform that gives you the liberty to have personal interaction in real-time with our viewers, and that overall enhances our experience. And, because there are a plethora of people who have recently developed an association with the platform.
 
-![]("6-ways-to/twitch2.png")
+![]("assets/6-ways-to/twitch2.png")
 
 Now that we know a bit about Twitch, Let's get started with our main topic, which is how can we wake money on Twitch:
 
