@@ -9,35 +9,61 @@ layout: default
 <div class='fixed-share-buttons-mobile slide-in-bottom-share-buttons'>
   <span>Share</span>
   <a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&amp;url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on Twitter"
+    src="{{ assets['twitter.png'].digest_path }}"
+    srcset="{{ assets['twitter.png'].digest_path }} 1x, {{ assets['twitter@2x.png'].digest_path }} 2x"
+    >
   </a>
   <a href="https://facebook.com/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on Facebook"
+    src="{{ assets['facebook.png'].digest_path }}"
+    srcset="{{ assets['facebook.png'].digest_path }} 1x, {{ assets['facebook@2x.png'].digest_path }} 2x"
+    >
   </a>
-
-   <a href="http://www.linkedin.com/shareArticle?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;title={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
-   </a>
-
-   <a href="http://www.tumblr.com/share/link?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;name={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
-   </a>
+  <a href="http://www.linkedin.com/shareArticle?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;title={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on LinkedIn"
+    src="{{ assets['linkedin.png'].digest_path }}"
+    srcset="{{ assets['linkedin.png'].digest_path }} 1x, {{ assets['linkedin@2x.png'].digest_path }} 2x"
+    >
+  </a>
+  <a href="http://www.tumblr.com/share/link?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;name={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on Tumblr"
+    src="{{ assets['tumblr.png'].digest_path }}"
+    srcset="{{ assets['tumblr.png'].digest_path }} 1x, {{ assets['tumblr@2x.png'].digest_path }} 2x"
+    >
+  </a>
 </div>
 
 <div class='fixed-share-buttons-desktop slide-in-left-share-buttons'>
   <span>Share</span>
   <br>
   <a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&amp;url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on Twitter"
+      src="{{ assets['twitter.png'].digest_path }}"
+      srcset="{{ assets['twitter.png'].digest_path }} 1x, {{ assets['twitter@2x.png'].digest_path }} 2x"
+    >
   </a>
   <br>
   <a href="https://facebook.com/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on Facebook"
+      src="{{ assets['facebook.png'].digest_path }}"
+      srcset="{{ assets['facebook.png'].digest_path }} 1x, {{ assets['facebook@2x.png'].digest_path }} 2x"
+    >
   </a>
   <br>
   <a href="http://www.linkedin.com/shareArticle?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;title={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on LinkedIn"
+      src="{{ assets['linkedin.png'].digest_path }}"
+      srcset="{{ assets['linkedin.png'].digest_path }} 1x, {{ assets['linkedin@2x.png'].digest_path }} 2x"
+      >
    </a>
    <br>
    <a href="http://www.tumblr.com/share/link?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;name={{ page.title | cgi_escape }}" rel="nofollow" target="_blank">
+    <img title="Share on Tumblr"
+      src="{{ assets['tumblr.png'].digest_path }}"
+      srcset="{{ assets['tumblr.png'].digest_path }} 1x, {{ assets['tumblr@2x.png'].digest_path }} 2x"
+      >
    </a>
-</div>
-
-<div class='fixed-mailing-button'>
-  <a href="{{ site.email_subscription_link }}" rel="nofollow" target='_blank'>Subscribe</a>
 </div>
 
 <div class="fixed-bottom-navigation left-side pagination">
