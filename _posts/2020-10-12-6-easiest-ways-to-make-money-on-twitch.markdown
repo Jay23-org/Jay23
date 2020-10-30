@@ -21,6 +21,8 @@ Not just this, with the rising popularity of Twix, some of the streamers in this
 
 Twitch is one such platform that gives you the liberty to have personal interaction in real-time with our viewers, and that overall enhances our experience. And, because there are a plethora of people who have recently developed an association with the platform.
 
+![]("6-ways-to/twitch2.png")
+
 Now that we know a bit about Twitch, Let's get started with our main topic, which is how can we wake money on Twitch:
 
 ## **6 Easiest Way to Make Money on Twitch**
@@ -82,5 +84,3 @@ Now that you are aware of the various ways through which you can make money on t
 Another thing that we must mention is that we must be very sure of the content you are streaming. The content should be worth the quality, and also, It should be able to grab the audience's attention. Only then would you be able to make a good profit.
 
 We hope that the details mentioned above were of some help to you. We are quite sure of the activities we are going to make tons of money out of it.
-
-![](/_assets/images/twitch.PNG)
