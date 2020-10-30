@@ -13,7 +13,7 @@ digital_ocean_link: https://www.digitalocean.com/
 abot_link: https://abot.app
 email_subscription_link: https://mailchimp.com/
 header_pages:
-- pages/home.html
+- pages/home.md
 - pages/about.md
 google_verification: 
 google_tag_manager: 
