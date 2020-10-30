@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: Contents
 - type: directory
-  path: ''
+  path: _posts
   label: Posts
   create: all
-  match: _posts/
+  match: "**/*"
 - type: directory
   path: ''
   label: Admin (UNSAFE)
