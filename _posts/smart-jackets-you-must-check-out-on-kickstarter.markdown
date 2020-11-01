@@ -31,7 +31,7 @@ In Kickstarter, you are bound to find a plethora of unique project works. It is 
 
 This guide enlightens our readers on some of the newest, most avant-garde apparel projects (**particularly smart jackets**) that are backed by investors on a large-scale and are on the road to success!
 
-**1.** [**SOL: The Heated Smart Jacket with Bluetooth Control**](https://www.kickstarter.com/projects/sol-heatwear/sol-the-heated-smart-jacket-with-bluetooth-control)
+## **1.** [**SOL: The Heated Smart Jacket with Bluetooth Control**](https://www.kickstarter.com/projects/sol-heatwear/sol-the-heated-smart-jacket-with-bluetooth-control)
 
 SOL is a unique heated apparel brand that focuses exclusively on producing apparel products for the outdoors. The SOL **Heated Smart Jacket** is their first-ever marketed product made with modern-day cutting-edge technology. This incredibly light down jacket features a heated pocket, heat panels, and Bluetooth control. It has a variety of stand-out features such as:
 
@@ -51,7 +51,7 @@ The carbon-fiber heating panels placed at the back of the front two pockets and 
 
 Users just have to download the SOL Heatware application and then launch it. After tapping on the Bluetooth icon, you can turn on the jacket and connect it. Once you establish a connection, you can monitor and control the heat through a digital dial and seek comfort from a **heated hoodie** at your convenience.
 
-**2.** [**Ministry of Supply: The First Intelligent Heated Jacket**](https://www.kickstarter.com/projects/1850124313/ministry-of-supply-the-first-intelligent-heated-ja)
+## **2.** [**Ministry of Supply: The First Intelligent Heated Jacket**](https://www.kickstarter.com/projects/1850124313/ministry-of-supply-the-first-intelligent-heated-ja)
 
 The Ministry of Supply is another fantastic company that has acquired quite a name on Kickstarter in just 5 years. Their recent launch entails a Mercury Intelligent Heated Jacket. This astounding, operational, voice-controlled, everything-proof, wearable clothing spontaneously picks behavior patterns and heats up to the desired temperature. Some of the most incredible features this heated **intelligent jacket** incorporates are:
 
@@ -77,7 +77,7 @@ Mercury is trained to turn on as soon as it senses some motion or a drop in outs
 
 Besides these exceptional features, the Mercury provides a sleek and clean fit that can be styled on various occasions. It is waterproof, travel-friendly, odor-free, and its 4-way dynamic stretch is designed to give you excellent mobility. The Mercury also provides heated pockets that can keep your hands cozy and warm on the go. Moreover, it also has wireless charging for your mobile phones and extra carry pockets, so you can easily carry your belongings while traveling.
 
-**3.** [**Baubax 2.0: Travel Jackets**](https://www.kickstarter.com/projects/baubax/the-worlds-best-travel-jacket-with-25-features-bau)
+## **3.** [**Baubax 2.0: Travel Jackets**](https://www.kickstarter.com/projects/baubax/the-worlds-best-travel-jacket-with-25-features-bau)
 
 The Baubax 2.0 is the ultimate travel jacket you will need all around the year and every time you fly at an altitude of 35,000 feet. Available in four different styles, these travel jackets comprise an eye mask, built-in neck pillow, blanket, gloves, bottle, footrest, and 12 useful pockets to carry your belongings while traveling. The features include:
 
@@ -105,7 +105,7 @@ The best part about the Baubax travel jacket is that it offers an assortment of 
 
 Lastly, users can take advantage of Baubax's RFID-proof secret pockets, whose location will be known only to the jacket owners. The hidden pocket location differs in each jacket style. It serves as an excellent option for carrying your credit cards and other personal possessions.
 
-**4.** [**Hallam New York: Smart Jacket For Smartphone Users**](https://www.kickstarter.com/projects/2067761922/smart-jacket-for-iphone-and-android-user-hallam-ne)
+## **4.** [**Hallam New York: Smart Jacket For Smartphone Users**](https://www.kickstarter.com/projects/2067761922/smart-jacket-for-iphone-and-android-user-hallam-ne)
 
 The Hallam New York smart jacket is one of the world's first intelligent jackets created for Android and iPhone smartphone users. This **smart jacket for mobile users** is available exclusively in 5 different styles: Sweatshirts, Hoodies, Padded Vests, Wool Jackets, and Varsity Jackets. All 5 jacket styles have an H Badge that provides a set of functions, stated as follows:
 
@@ -129,7 +129,7 @@ The Hallam New York smart jacket is one of the world's first intelligent jackets
 * **It keeps you healthy and makes your mobile phone way more accessible.**
 * **It makes activities like camping, riding, jogging, traveling, taking selfies, listening to music, and partying incredibly exciting.**
 
-**5.** [**PurDenim: Stain-Repellent and Water-Repellent Jeans**](https://www.kickstarter.com/projects/purdenimjeans/purdenim-stain-repellent-and-water-repellent-jeans)
+## **5.** [**PurDenim: Stain-Repellent and Water-Repellent Jeans**](https://www.kickstarter.com/projects/purdenimjeans/purdenim-stain-repellent-and-water-repellent-jeans)
 
 PurDenim Water and Stain Repellent Jeans are incredibly breathable, flexible, and the most comfortable daily-wear jeans you will ever land on. They are jeans that cannot be stained! Minor accidents can occur anywhere and anytime. Whether you are presenting a proposal, on your way to the next meeting, in the office, walking your dog, or bike-riding, you can meet with an unfortunate accident.
 
@@ -161,7 +161,7 @@ The fabric of PurDenim jeans possesses fast-drying properties, so you can have d
 
 PurDenim has proudly developed cutting-edge, high-pressure, and high-temperature Purtex Technology, which amalgamates 5% spandex and 95% cotton to formulate a unique fabric. Tested regularly at 180-193 degrees, PerDenim has ensured that stain and water-repellent jeans are for real. **Smart clothes** are the new fashion statement now!
 
-**6.** [**Smart Parka: The World's First Complete Winter Coat**](https://www.kickstarter.com/projects/northaware/smart-parka-worlds-first-complete-winter-coat)
+## **6.** [**Smart Parka: The World's First Complete Winter Coat**](https://www.kickstarter.com/projects/northaware/smart-parka-worlds-first-complete-winter-coat)
 
 Smart Parka is the first-ever winter coat designed with a built-in scarf and gloves, a hat pouch, a detachable lining for frosty days, tech pockets, and a long extension to transform your hip-length coat into a mid-length.
 
@@ -211,7 +211,7 @@ Quite amazingly, you can find commercial tracker tags inside that let your spot 
 
 It keeps you from wet constituents.
 
-**7.** [**Kinesix: The World's 1st Customizable Smart Heating Jacket**](https://www.kickstarter.com/projects/kinesixsports/kinesix-the-worlds-first-customizable-smart-heatin)
+## **7.** [**Kinesix: The World's 1st Customizable Smart Heating Jacket**](https://www.kickstarter.com/projects/kinesixsports/kinesix-the-worlds-first-customizable-smart-heatin)
 
 Kinesix ThermoSmart Jacket is the first-ever tailor-made Smart Heating Jacket created for daily-wear and on the move. The primary purpose of these **tech clothing** with smart heating is to ensure you never have to be hampered by the cold again. **The heat management component and the mobile application keep a check on the inside temperature and instant regulates itself accordingly to provide you utmost comfort.**
 
@@ -235,7 +235,7 @@ The heaters in the jacket will only heat up when the need arises.
 
 This jacket operates like a thermostat in your house and lets you control the temperature the way you want. The system that Kinesix ThermoSmart Jackets offer is incredibly smart and simply because you no longer have to worry about the freezing temperatures. Simply enjoy the weather and let the heating jackets do their work.
 
-**8.** [**Gottlich: AIR Futuristic Breathable Blazer**](https://www.kickstarter.com/projects/gottlich/air-the-worlds-most-breathable-blazer-ever)
+## **8.** [**Gottlich: AIR Futuristic Breathable Blazer**](https://www.kickstarter.com/projects/gottlich/air-the-worlds-most-breathable-blazer-ever)
 
 Recently, a new smart jacket with the name of AIR created quite a name for itself on Kickstarter. Made with a fortune of features, AIR was designed as the most breathable and functional blazer in the world. After performing research on hundreds of different materials worldwide, the company eventually chose to go forth with a fabric known as "Modal," grown out of Austrian Beech Trees.
 
@@ -253,7 +253,7 @@ The modal used to create these blazers are especially nipped, blended, and drive
 
 AIR has achieved outstanding breathability of 6,000 units, making it the world's and history's most breathable blazer. The fabric is breathable. The fibers are breathable. The blazer is breathable at every level, making it a truly revolutionary item of **smart clothing**.
 
-**9.** [**Western Rise: The AirLoft Jacket**](https://www.kickstarter.com/projects/766542489/the-airloft-jacket)
+## **9.** [**Western Rise: The AirLoft Jacket**](https://www.kickstarter.com/projects/766542489/the-airloft-jacket)
 
 The AirLoft Jacket by Western Rise is indeed the most ideal travel, outdoor, and every day versatile-performance jacket. Designed to be the forthcoming generation of insulated jackets, the AirLoft Jacket is made of premium-grade fiber and verified by sportsmen.
 
@@ -269,6 +269,6 @@ The AirLoft Jacket is designed to give you a contemporary and sleek look for opt
 * **The 360-degree stretching ability makes it one-of-a-kind and gives you the ultimate freedom to move.**
 * **The AirLoft jacket features a durable Primeflex outer that provides better scratch-resistance compared to other jackets of its kind.**
 
-**Conclusion**
+## **Conclusion**
 
 These smart jackets are a living example of how "smart clothes" have changed the fashion and apparel industry's dynamics. Now, clothing items with **wearable technology** are more in style than ever. With these budding brands' continued efforts in producing such high-tech apparel, the clothing industry surely awaits more wonders.
