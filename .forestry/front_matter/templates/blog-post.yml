@@ -34,3 +34,5 @@ fields:
 - type: textarea
   name: summary
   label: summary
+pages:
+- _posts/foo.md
