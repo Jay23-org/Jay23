@@ -15,13 +15,13 @@ main_image_description: Twitch panels
 ---
 Twitch began its journey as a simple online working space where people could broadcast live video games played by gamers. With time, it has been able to garner a lot of popularity. The new world twitch has become one of the most loved platforms for watching some of the famous e-sports being played live.
 
-Not just this, with the rising popularity of Twix, some of the streamers in this process have been able to make a successful career. And, they have also garnered a lot of money, which is just amazing.
+Not just this, with the rising popularity of Twitch, some of the streamers in this process have been able to make a successful career. And, they have also garnered a lot of money, which is just amazing.
 
 ## Twitch
 
 Twitch is one such platform that gives you the liberty to have personal interaction in real-time with our viewers, and that overall enhances our experience. And, because there are a plethora of people who have recently developed an association with the platform.
 
-![]("assets/6-ways-to/twitch2.png")
+![]("6-ways-to/twitch2.png")
 
 Now that we know a bit about Twitch, Let's get started with our main topic, which is how can we wake money on Twitch:
 
