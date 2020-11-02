@@ -35,7 +35,7 @@ This guide enlightens our readers on some of the newest, most avant-garde appare
 
 ## **1.** [**SOL: The Heated Smart Jacket with Bluetooth Control**](https://www.kickstarter.com/projects/sol-heatwear/sol-the-heated-smart-jacket-with-bluetooth-control)
 
-![](_assets/images/smart-jackets/sol-jacket.png)
+{% asset smart-jackets/sol-jacket.png class="center-image" alt="SOL Jacket" !width !height %}
 
 SOL is a unique heated apparel brand that focuses exclusively on producing apparel products for the outdoors. The SOL **Heated Smart Jacket** is their first-ever marketed product made with modern-day cutting-edge technology. This incredibly light down jacket features a heated pocket, heat panels, and Bluetooth control. It has a variety of stand-out features such as:
 
