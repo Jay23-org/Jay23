@@ -102,5 +102,4 @@ assets:
   sources:
   - _assets/css
   - _assets/css/scss
-  - _assets/images
   - _assets/images/shared
