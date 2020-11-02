@@ -14,7 +14,7 @@ thumb_image: smart-jackets/smart-jackets.png
 main_image_description: Smart Jackets on Kickstarter
 
 ---
-Kickstarter campaigns are where you can convert your thoughtful ideas and visionary dreams into reality. Kickstarter provides an engaging platform for creators all over the world to share their innovative visions and passion for creative work by working together with and impressing communities who can fund their start-up projects.
+    Kickstarter campaigns are where you can convert your thoughtful ideas and visionary dreams into reality. Kickstarter provides an engaging platform for creators all over the world to share their innovative visions and passion for creative work by working together with and impressing communities who can fund their start-up projects.
 
 **These creators are in complete control of how to pull everything together. No donors challenging you to alter your message, no 50-page long grant requests, and no final-hour edits from investors are required in Kickstarter. As backers fund you and do word-of-mouth advertising, they too become involved in these individual projects.**
 
@@ -56,6 +56,8 @@ The carbon-fiber heating panels placed at the back of the front two pockets and 
 Users just have to download the SOL Heatware application and then launch it. After tapping on the Bluetooth icon, you can turn on the jacket and connect it. Once you establish a connection, you can monitor and control the heat through a digital dial and seek comfort from a **heated hoodie** at your convenience.
 
 ## **2.** [**Ministry of Supply: The First Intelligent Heated Jacket**](https://www.kickstarter.com/projects/1850124313/ministry-of-supply-the-first-intelligent-heated-ja)
+
+    {% asset smart-jackets/ministry.png class="center-image" alt="Ministry of Supplay Jacket" !width !height %}
 
 The Ministry of Supply is another fantastic company that has acquired quite a name on Kickstarter in just 5 years. Their recent launch entails a Mercury Intelligent Heated Jacket. This astounding, operational, voice-controlled, everything-proof, wearable clothing spontaneously picks behavior patterns and heats up to the desired temperature. Some of the most incredible features this heated **intelligent jacket** incorporates are:
 
