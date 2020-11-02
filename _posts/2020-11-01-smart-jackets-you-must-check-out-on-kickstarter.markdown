@@ -3,18 +3,17 @@ layout: post
 title: Smart Jackets You Must Check Out On Kickstarter
 head_title: Sample post
 date: 2020-11-01T14:26:52.000+00:00
-summary: Kickstarter campaigns are where you can convert your thoughtful ideas and 
-    visionary dreams into reality. Kickstarter provides an engaging platform for 
-    creators all over the world to share their innovative visions and passion for 
-    creative work by working together with and impressing communities who can 
-    fund their start-up projects.
+summary: Kickstarter campaigns are where you can convert your thoughtful ideas and
+  visionary dreams into reality. Kickstarter provides an engaging platform for creators
+  all over the world to share their innovative visions and passion for creative work
+  by working together with and impressing communities who can fund their start-up
+  projects.
 last_modified_at: 2020-11-01T14:10:10.000+01:00
-preview_image: "smart-jackets.png"
-thumb_image: "smart-jackets.png"
+preview_image: smart-jackets.png
+thumb_image: smart-jackets.png
 main_image_description: Smart Jackets on Kickstarter
 
 ---
-
 Kickstarter campaigns are where you can convert your thoughtful ideas and visionary dreams into reality. Kickstarter provides an engaging platform for creators all over the world to share their innovative visions and passion for creative work by working together with and impressing communities who can fund their start-up projects.
 
 **These creators are in complete control of how to pull everything together. No donors challenging you to alter your message, no 50-page long grant requests, and no final-hour edits from investors are required in Kickstarter. As backers fund you and do word-of-mouth advertising, they too become involved in these individual projects.**
@@ -35,6 +34,8 @@ In Kickstarter, you are bound to find a plethora of unique project works. It is 
 This guide enlightens our readers on some of the newest, most avant-garde apparel projects (**particularly smart jackets**) that are backed by investors on a large-scale and are on the road to success!
 
 ## **1.** [**SOL: The Heated Smart Jacket with Bluetooth Control**](https://www.kickstarter.com/projects/sol-heatwear/sol-the-heated-smart-jacket-with-bluetooth-control)
+
+![](/_assets/images/sol-jacket.png)
 
 SOL is a unique heated apparel brand that focuses exclusively on producing apparel products for the outdoors. The SOL **Heated Smart Jacket** is their first-ever marketed product made with modern-day cutting-edge technology. This incredibly light down jacket features a heated pocket, heat panels, and Bluetooth control. It has a variety of stand-out features such as:
 
