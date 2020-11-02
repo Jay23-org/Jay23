@@ -57,7 +57,7 @@ Users just have to download the SOL Heatware application and then launch it. Aft
 
 ## **2.** [**Ministry of Supply: The First Intelligent Heated Jacket**](https://www.kickstarter.com/projects/1850124313/ministry-of-supply-the-first-intelligent-heated-ja)
 
-    {% asset smart-jackets/ministry.png class="center-image" alt="Ministry of Supplay Jacket" !width !height %}
+{% asset smart-jackets/ministry.png class="center-image" alt="Ministry of Supplay Jacket" !width !height %}
 
 The Ministry of Supply is another fantastic company that has acquired quite a name on Kickstarter in just 5 years. Their recent launch entails a Mercury Intelligent Heated Jacket. This astounding, operational, voice-controlled, everything-proof, wearable clothing spontaneously picks behavior patterns and heats up to the desired temperature. Some of the most incredible features this heated **intelligent jacket** incorporates are:
 
